@@ -1,3 +1,4 @@
 User-agent: *
 Allow: /
-Sitemap: https://myhyroxplan-sitemap.github.io/myhyroxplan-seo/sitemap.xml
+Sitemap: https://myhyroxplan-sitemap.github.io/sitemap.xml
+
