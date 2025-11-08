@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://myhyroxplan.com/sitemap.xml
